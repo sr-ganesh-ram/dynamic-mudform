@@ -77,7 +77,7 @@
       "url": "img\/students.png"
     },
     {
-      "hash": "sha256-aMKVU4K3FKewMHbcdJlAV3IhOAQT8+8q3cAmKD7QIeY=",
+      "hash": "sha256-RtRwrPvP43u8PL6yO9r4iJzQ8T\/iT7cIXrE7FdznBvE=",
       "url": "index.html"
     },
     {
@@ -445,5 +445,5 @@
       "url": "_content\/Blazor.UI.LoginForms\/Blazor.UI.LoginForms.bundle.scp.css"
     }
   ],
-  "version": "15GUZNFz"
+  "version": "Z7JKnmE2"
 };
