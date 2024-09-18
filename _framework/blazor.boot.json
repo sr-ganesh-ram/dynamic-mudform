@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorForms.NoLazyLoad",
   "resources": {
-    "hash": "sha256-dsHjCFF/vpzGj/NY/y6hmycBYjEwGX/+Nht9xNqYYpw=",
+    "hash": "sha256-o1Jn/wOfqMTAIZPmSf1ds2psgKINwj9Dz9vbrclx7qM=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.37dkch2d2y.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Blazor.Shared.FormGenerator.wasm": "sha256-bAHx5T0C7BsJzLUseywv65dITk1Yxg9FDddfgcZbHvY=",
+      "Blazor.Shared.FormGenerator.wasm": "sha256-wSpaWvPw7LKblHvKOAV+ZOiUyNrFSJJHryNtF6XMvys=",
       "Blazor.UI.FormGenerator.wasm": "sha256-7VCoJELAMqhHpL49nC02Nk/GBA7cw/4tCBHR0uEeoLo=",
       "Blazor.UI.LoginForms.wasm": "sha256-Ip1sU+q1eceqpwJK4YnJcEYQkEXfjfnJnTe3MrDA5Uw=",
       "BlazorForms.NoLazyLoad.wasm": "sha256-e5m8M/blpWZdrxWkf32fFx5rEMggex230nVn1o1iKUI=",
