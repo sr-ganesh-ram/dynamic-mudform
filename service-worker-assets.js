@@ -17,7 +17,7 @@
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-oKvXO2PLu3IePiZJJm49v\/IIABDyHSfs74RuaWBwpUI=",
+      "hash": "sha256-c7xx2Hf11ZZNqm4MpHSSJ\/o41ON5BrlWiZ76jvKCAmA=",
       "url": "forms\/all-controls.json"
     },
     {
@@ -201,15 +201,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-JJQr4XN1rsyhrUYErNij3ZDs3t3aMwixd2PrSH8bPLA=",
+      "hash": "sha256-etcJcamRzLhLYVwK3hqk4URn+gBTu8FMrOpipk1j4nQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-ofLoqjz695RqZ60qJA1Vr\/2k5nN6tQgD5CkP5i5IOcw=",
+      "hash": "sha256-AVTQTDsGKyR8K11r02X26NkfR2\/bXdfppWKFi51SzwE=",
       "url": "_framework\/Blazor.Shared.FormGenerator.wasm"
     },
     {
-      "hash": "sha256-2+fPMHbmfaIR7eWa4PWHPnDb7P3fb2Mw3dNsFkjD1q0=",
+      "hash": "sha256-c\/\/IbPMYrEk7u49eOqCo8E0XrWTsjvWz0lJXhMGyx9g=",
       "url": "_framework\/Blazor.UI.FormGenerator.wasm"
     },
     {
@@ -217,7 +217,7 @@
       "url": "_framework\/Blazor.UI.LoginForms.wasm"
     },
     {
-      "hash": "sha256-Dd06VQNmDrr5QZKPyCYCqXRhmcqjJUi8SHXIhoodCZM=",
+      "hash": "sha256-OdwwPsDMOa4+otxGkQMtykznD+yiApNjlSaKO960eoM=",
       "url": "_framework\/BlazorForms.NoLazyLoad.wasm"
     },
     {
@@ -445,5 +445,5 @@
       "url": "_content\/Blazor.UI.LoginForms\/Blazor.UI.LoginForms.bundle.scp.css"
     }
   ],
-  "version": "Z9j9EB9t"
+  "version": "uj1bZU4n"
 };
