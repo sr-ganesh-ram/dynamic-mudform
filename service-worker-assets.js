@@ -201,15 +201,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-XZ9jYDyJ9TzA4idRu6vKd+SJcrEh\/lRmFsqj60r0p5M=",
+      "hash": "sha256-UIK7zpM9XE5mTiSUfnEo0btgpkrPigsG9PCEFtrlPvg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-H3WMKxNZ7WZYW9ySxEyC08DnSpCiCkOUeJHziW+UTmk=",
+      "hash": "sha256-A4iJCVPYKRZ5URpFUALPAi6BO5CPyt3EG78uWyom98Q=",
       "url": "_framework\/Blazor.Shared.FormGenerator.wasm"
     },
     {
-      "hash": "sha256-7VCoJELAMqhHpL49nC02Nk\/GBA7cw\/4tCBHR0uEeoLo=",
+      "hash": "sha256-2+fPMHbmfaIR7eWa4PWHPnDb7P3fb2Mw3dNsFkjD1q0=",
       "url": "_framework\/Blazor.UI.FormGenerator.wasm"
     },
     {
@@ -217,7 +217,7 @@
       "url": "_framework\/Blazor.UI.LoginForms.wasm"
     },
     {
-      "hash": "sha256-e5m8M\/blpWZdrxWkf32fFx5rEMggex230nVn1o1iKUI=",
+      "hash": "sha256-Dd06VQNmDrr5QZKPyCYCqXRhmcqjJUi8SHXIhoodCZM=",
       "url": "_framework\/BlazorForms.NoLazyLoad.wasm"
     },
     {
@@ -357,7 +357,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-BGsjQMjHthamQgmk+PrzSJ1NXxY0c5QfX1EBgrPn\/5w=",
+      "hash": "sha256-yu0VT9lbMZ2BFfPSOO0AHTGDTKUS\/DgIAN4nmjqcoWg=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -369,7 +369,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-IWRuSWIrK5bV0e4MvFYOJj+JqZoBTQkSVAp8mgnetnQ=",
+      "hash": "sha256-T7+1oms5FVQDbgtzA36OQMZ60tEW+3L5wbvoXzQsC0o=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -445,5 +445,5 @@
       "url": "_content\/Blazor.UI.LoginForms\/Blazor.UI.LoginForms.bundle.scp.css"
     }
   ],
-  "version": "QeGgDOx3"
+  "version": "kjWdqBHO"
 };
