@@ -17,7 +17,7 @@
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-c7xx2Hf11ZZNqm4MpHSSJ\/o41ON5BrlWiZ76jvKCAmA=",
+      "hash": "sha256-NHU+kbvVk7EFQQTzijkrWzczhzBpQobWejuYXVHfX2Y=",
       "url": "forms\/all-controls.json"
     },
     {
@@ -77,7 +77,7 @@
       "url": "img\/students.png"
     },
     {
-      "hash": "sha256-RtRwrPvP43u8PL6yO9r4iJzQ8T\/iT7cIXrE7FdznBvE=",
+      "hash": "sha256-iz7olxpUcsmd8d81PrHrNUkREXtrhpK5vecbywFNpFo=",
       "url": "index.html"
     },
     {
@@ -93,19 +93,19 @@
       "url": "json-control\/checkbox.json"
     },
     {
-      "hash": "sha256-fA24QhmoxO5aO2B65OOsG0M2\/PA8z6thnLstgyeZD4Y=",
+      "hash": "sha256-h3eVhCTriInvB5OtvnGxRM0t7w9ZLgnoAuutbHdWYyE=",
       "url": "json-control\/chipset.json"
     },
     {
-      "hash": "sha256-SJtnw+kn6ErY16iZtt9g6eM\/KJpFTTG8\/Iam0GBuvcY=",
+      "hash": "sha256-1HrRz7HltrKpn5n60wnxbM1pERZTRbuOFqqWa\/inERI=",
       "url": "json-control\/date.json"
     },
     {
-      "hash": "sha256-0YtV6C+y69REjvEvtJoNnRkplwZpsv3SF+DEpBRvdqs=",
+      "hash": "sha256-qPqR6G4dmOuP38Ueb1QBAvSNTOiOeAo+vVJxX5g8jJg=",
       "url": "json-control\/date-time.json"
     },
     {
-      "hash": "sha256-8gHX6e8kLLOJjAzE2RwL\/QPt2pLcvAt+V8TjHIvEG2M=",
+      "hash": "sha256-U9aiKffS0SSECAa2tsilfMkbjxufS8DpNwHrE4RdsTA=",
       "url": "json-control\/divider.json"
     },
     {
@@ -113,7 +113,7 @@
       "url": "json-control\/email.json"
     },
     {
-      "hash": "sha256-lmo15s2sjqzQV1tnK2NuDnuqqSJZZGkReBPD5SPZ1Lg=",
+      "hash": "sha256-ZtK5j63KlNMj8X4YLdRx6UJTfoOfFIf81ToqfI6r5Zg=",
       "url": "json-control\/field.json"
     },
     {
@@ -121,43 +121,43 @@
       "url": "json-control\/file-upload.json"
     },
     {
-      "hash": "sha256-rwrKBehEjDqGeneN\/3k4hLeUGoHjTBaX2MbM2BhmxPE=",
+      "hash": "sha256-5NvQuqmhdgu9cORM6HQR+mewBJiXUkux0QVQ1dddiqY=",
       "url": "json-control\/image.json"
     },
     {
-      "hash": "sha256-sisctzpKuDnNCr5I8jY+jm8R60bSea4gAdGhhw2KEwY=",
+      "hash": "sha256-3lHnf8lEwtBTBmy1HTd5SKsTgz8ojb8YIFwMf0lYwXM=",
       "url": "json-control\/multiline.json"
     },
     {
-      "hash": "sha256-N2aNSzvgYutPMCs1S1aqFW+e6cXQR3raIAckN2KoCdk=",
+      "hash": "sha256-Foq00XtvVZqDDps+n4khkHG8nZNkYuYL0CeacZXTgic=",
       "url": "json-control\/numeric.json"
     },
     {
-      "hash": "sha256-6MmKlJq\/rWwmSIu6unlA5EC8yVFDlbQdWBJ8W6EWHNY=",
+      "hash": "sha256-uPNCmKRvwse78nE55fxjmoxift\/958M0AtUa8srOZE8=",
       "url": "json-control\/password.json"
     },
     {
-      "hash": "sha256-zfatCNRrk19KbyV7hpmcHmimy5rYc15UCcV+5NTZJYU=",
+      "hash": "sha256-8AhxELNRYhTVAKkzAu\/GJCZilLCCd\/NF70UMl\/\/hGek=",
       "url": "json-control\/radiobox.json"
     },
     {
-      "hash": "sha256-54TokQcWQlW\/fDfSY8PdhKm39nnExE8riwTqaVm\/Bmc=",
+      "hash": "sha256-dSDCNPSPputoJdjyhI6gIijfFXMQGfXNcw4CA6WiBKs=",
       "url": "json-control\/select.json"
     },
     {
-      "hash": "sha256-MEc0QE9N6KeBRCKXmlHnHNOheGLAHpiL9TNdZ6xY8\/g=",
+      "hash": "sha256-ywWzpP36waLJPg7bA1iDTCrJoexxgwKg0R+TetI4cgE=",
       "url": "json-control\/switch.json"
     },
     {
-      "hash": "sha256-wOdRKTYRPQ7c4WDBkvQ\/FKl9JhJciMFCRPfvqqc3MLk=",
+      "hash": "sha256-DjX+j\/sUqSJLwn6igfVWjdl7s6+jyQ6lkdRqUawz3ow=",
       "url": "json-control\/text.json"
     },
     {
-      "hash": "sha256-Eih+MdWE3+hpsSLYGjIdXgz6+mKRQ6Hgq33GXJ5kseo=",
+      "hash": "sha256-m\/wwsgvKJfaaYE094tGYv1UBO1woRCDs3okLrJQwzRg=",
       "url": "json-control\/time.json"
     },
     {
-      "hash": "sha256-tV+WfZv3TUmByEOugFKv8GrMnpqoVhMCCQWN8YaX8vg=",
+      "hash": "sha256-pmgSi5707CHoJQSvC7QSw3c\/CfYzYwmiTdYRfSJmJNc=",
       "url": "json-control\/title.json"
     },
     {
@@ -201,7 +201,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-etcJcamRzLhLYVwK3hqk4URn+gBTu8FMrOpipk1j4nQ=",
+      "hash": "sha256-jgCXB8xfyAok4HsJeYcft40hTHg8p78tvS48nQzOfWU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -217,7 +217,7 @@
       "url": "_framework\/Blazor.UI.LoginForms.wasm"
     },
     {
-      "hash": "sha256-OdwwPsDMOa4+otxGkQMtykznD+yiApNjlSaKO960eoM=",
+      "hash": "sha256-rwBci9UK2392n6wEYHqHDMcWx32M4Ytl8COe4AxAjpo=",
       "url": "_framework\/BlazorForms.NoLazyLoad.wasm"
     },
     {
@@ -445,5 +445,5 @@
       "url": "_content\/Blazor.UI.LoginForms\/Blazor.UI.LoginForms.bundle.scp.css"
     }
   ],
-  "version": "uj1bZU4n"
+  "version": "fEQ3Y47a"
 };
